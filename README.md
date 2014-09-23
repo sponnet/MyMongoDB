@@ -1,2 +1,1 @@
-second-app
-==========
+MongoDB recipe
